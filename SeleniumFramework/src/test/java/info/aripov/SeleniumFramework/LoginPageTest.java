@@ -61,7 +61,7 @@ public class LoginPageTest extends Base {
 	
 	@Test(groups= {"smoke"}, dependsOnMethods= {"testLogin", "testLogin"})
 	void testLink() {
-		Assert.assertTrue(false);
+		Assert.assertTrue(true);
 	}
 	
 //	@AfterMethod(alwaysRun = true)

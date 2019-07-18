@@ -393,3 +393,5 @@
 2019-07-18 01:49:56 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
 2019-07-18 01:50:00 [main] INFO  Base:75 - driver 333 = ChromeDriver: chrome on MAC (a2f7cd363cc22d9c85c16054c0b27627)
 2019-07-18 01:50:01 [main] INFO  Base:76 - Before closing !
+2019-07-18 03:55:25 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 03:55:28 [main] INFO  Base:76 - Before closing !

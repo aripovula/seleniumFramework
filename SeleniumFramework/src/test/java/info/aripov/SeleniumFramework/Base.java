@@ -66,7 +66,7 @@ public class Base {
 	}
 	
 	private WebDriver otherSettings(WebDriver driver) {
-		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().deleteAllCookies();
 		return driver;
 	}
