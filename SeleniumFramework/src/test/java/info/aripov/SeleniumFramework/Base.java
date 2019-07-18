@@ -1,21 +1,31 @@
 package info.aripov.SeleniumFramework;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.io.FileUtils;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
 
 public class Base {
 	private WebDriver driver;
+	public Properties prop;
+	public final Logger logBase = LogManager.getLogger(Base.class);
 	
 	public WebDriver initializeDriver() {
 		
-		Properties prop = new Properties();
+		prop = new Properties();
 		FileInputStream fis;
 		try {
 			fis = new FileInputStream("/Users/myfamily/git/SeleniumFramework/SeleniumFramework/data.properties");
@@ -38,7 +48,7 @@ public class Base {
 		  default:
 			this.driver = getChrome();
 		}
-		return driver;
+		return this.driver;
 	}
 	
 	private WebDriver getChrome(){
@@ -61,8 +71,31 @@ public class Base {
 		return driver;
 	}
 	
-	public String getLoginPage() {
-		return "https://dv2yp2jkfi48m.cloudfront.net/login";
+	public void getScreenShot(String testName, WebDriver driver) {		
+		logBase.info("driver 333 = " + driver);
+		File file = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		try {
+			FileUtils.copyFile(file, new File("/Users/myfamily/Documents/00CurWorks/AllCode/selenium/screensh_" + testName + ".png"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public void waitAndClose(WebDriver driver, Long seconds) {
+		// wait before quitting browser
+		try {
+			Thread.sleep(seconds);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		driver.quit();
+	}
+
+	@AfterMethod(alwaysRun = true)
+	public void captureScreenshot(ITestResult result){
+	    if(ITestResult.FAILURE==result.getStatus()){
+	    	getScreenShot(result.getName() + "-new", driver);
+	    }
 	}
 
 }

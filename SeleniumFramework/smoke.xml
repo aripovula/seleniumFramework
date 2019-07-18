@@ -8,9 +8,9 @@
 	  	</run>
   	</groups>
     <classes>
-      <class name="info.aripov.selenium.AppTest"/>
-      <class name="info.aripov.selenium.RevenueTest"/>
-      <class name="info.aripov.selenium.CostOfSalesTest"/>
+      <class name="info.aripov.SeleniumFramework.AppTest"/>
+      <class name="info.aripov.SeleniumFramework.LoginPageTest"/>
+      <class name="info.aripov.SeleniumFramework.HomePageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

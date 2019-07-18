@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="info.aripov.SeleniumFramework.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="info.aripov.SeleniumFramework.LoginPageTest">
+        <methods>
+          <include name="setupTest"/>
+          <include name="teardown"/>
+          <include name="testLink"/>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- info.aripov.SeleniumFramework.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

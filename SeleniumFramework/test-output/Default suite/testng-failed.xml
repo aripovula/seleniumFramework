@@ -5,7 +5,11 @@
     <classes>
       <class name="info.aripov.SeleniumFramework.LoginPageTest">
         <methods>
-          <include name="testTitle"/>
+          <include name="captureScreenshot"/>
+          <include name="setupTest"/>
+          <include name="teardown"/>
+          <include name="testLink"/>
+          <include name="testLogin"/>
         </methods>
       </class> <!-- info.aripov.SeleniumFramework.LoginPageTest -->
     </classes>

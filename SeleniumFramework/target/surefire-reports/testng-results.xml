@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-16T10:33:46Z" name="Command line suite" finished-at="2019-07-16T10:33:53Z" duration-ms="7273">
+    <groups>
+      <group name="smoke">
+        <method signature="LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@7bf3a5d8]" name="testLink" class="info.aripov.SeleniumFramework.LoginPageTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2019-07-16T10:33:46Z" name="Command line test" finished-at="2019-07-16T10:33:53Z" duration-ms="7273">
+      <class name="info.aripov.SeleniumFramework.LoginPageTest">
+        <test-method is-config="true" signature="setupTestSuite()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@7bf3a5d8]" started-at="2019-07-16T10:33:40Z" name="setupTestSuite" finished-at="2019-07-16T10:33:46Z" duration-ms="5314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestSuite -->
+        <test-method signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@7bf3a5d8]" started-at="2019-07-16T10:33:49Z" name="testLogin" data-provider="getData" finished-at="2019-07-16T10:33:53Z" duration-ms="3785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[weblaruchun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passord]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@7bf3a5d8]" started-at="2019-07-16T10:33:53Z" name="testLink" finished-at="2019-07-16T10:33:53Z" depends-on-methods="info.aripov.SeleniumFramework.LoginPageTest.testLogin" duration-ms="2" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at org.testng.Assert.assertTrue(Assert.java:54)
+at info.aripov.SeleniumFramework.LoginPageTest.testLink(LoginPageTest.java:65)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLink -->
+      </class> <!-- info.aripov.SeleniumFramework.LoginPageTest -->
+      <class name="info.aripov.SeleniumFramework.HomePageTest">
+        <test-method signature="testTitle()[pri:0, instance:info.aripov.SeleniumFramework.HomePageTest@39b43d60]" started-at="2019-07-16T10:33:46Z" name="testTitle" finished-at="2019-07-16T10:33:49Z" duration-ms="3444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitle -->
+        <test-method is-config="true" signature="wrapTestSuite()[pri:0, instance:info.aripov.SeleniumFramework.HomePageTest@39b43d60]" started-at="2019-07-16T10:33:53Z" name="wrapTestSuite" finished-at="2019-07-16T10:33:56Z" duration-ms="3208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapTestSuite -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@7bf3a5d8]" started-at="2019-07-16T10:33:56Z" name="teardown" finished-at="2019-07-16T10:34:00Z" duration-ms="3325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- info.aripov.SeleniumFramework.HomePageTest -->
+      <class name="info.aripov.SeleniumFramework.AppTest">
+        <test-method signature="testApp()[pri:0, instance:info.aripov.SeleniumFramework.AppTest@42e25b0b]" started-at="2019-07-16T10:33:46Z" name="testApp" finished-at="2019-07-16T10:33:46Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- info.aripov.SeleniumFramework.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

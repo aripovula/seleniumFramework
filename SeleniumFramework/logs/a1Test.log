@@ -1,0 +1,395 @@
+2019-07-16 03:39:36 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 03:39:41 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 03:56:49 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 03:56:53 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 04:01:15 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 04:01:20 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 04:02:42 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 04:02:51 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 04:12:37 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 04:12:49 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 04:48:00 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 04:48:04 [main] INFO  LoginPageTest:70 - Before closing !
+2019-07-16 05:49:46 [main] INFO  LoginPageTest:44 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 05:49:46 [main] INFO  Base:45 - driver is setup, opening null
+2019-07-16 05:49:49 [main] INFO  LoginPageTest:76 - Before closing !
+2019-07-16 05:51:07 [main] INFO  Base:45 - driver is setup, opening null
+2019-07-16 05:51:10 [main] INFO  LoginPageTest:76 - Before closing !
+2019-07-16 05:52:17 [main] INFO  Base:45 - driver is setup, opening BASE BASEhttps://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 05:52:20 [main] INFO  LoginPageTest:76 - Before closing !
+2019-07-16 06:19:06 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:19:10 [main] INFO  Base:69 - Before closing !
+2019-07-16 06:24:38 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:24:41 [main] INFO  Base:69 - Before closing !
+2019-07-16 06:25:59 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:26:03 [main] INFO  Base:69 - Before closing !
+2019-07-16 06:29:55 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:29:59 [main] INFO  Base:70 - Before closing !
+2019-07-16 06:33:45 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:33:56 [main] INFO  Base:70 - Before closing !
+2019-07-16 06:39:07 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:39:07 [main] INFO  Base:17 - test Started
+2019-07-16 06:39:10 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:39:10 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:39:10 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:39:10 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:39:10 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:39:10 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:39:10 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:39:10 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:39:10 [main] INFO  Base:11 - test Ended
+2019-07-16 06:42:04 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:42:09 [main] INFO  Base:70 - Before closing !
+2019-07-16 06:42:57 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:42:57 [main] INFO  Base:17 - test Started
+2019-07-16 06:43:01 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:43:01 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:43:01 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:43:01 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:43:01 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:43:01 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:43:01 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:43:01 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:43:01 [main] INFO  Base:11 - test Ended
+2019-07-16 06:46:21 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 06:46:21 [main] INFO  Base:17 - test Started
+2019-07-16 06:46:25 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:46:25 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:46:25 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:46:25 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:46:25 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 06:46:25 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 06:46:25 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 06:46:25 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 06:46:25 [main] INFO  Base:11 - test Ended
+2019-07-16 07:00:39 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:00:39 [main] INFO  Base:18 - test Started
+2019-07-16 07:00:42 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-16 07:00:42 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-16 07:00:42 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:00:42 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-16 07:00:42 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-16 07:00:42 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-16 07:00:42 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:00:42 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-16 07:00:42 [main] INFO  Base:12 - test Ended
+2019-07-16 07:04:25 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:04:26 [main] INFO  Base:18 - test Started
+2019-07-16 07:04:28 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-16 07:04:28 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-16 07:04:28 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:04:28 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-16 07:04:28 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-16 07:04:28 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-16 07:04:28 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:04:28 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-16 07:04:28 [main] INFO  Base:12 - test Ended
+2019-07-16 07:11:38 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:11:38 [main] INFO  Base:17 - test Started
+2019-07-16 07:11:42 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:11:42 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:11:42 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:11:42 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 07:11:42 [main] INFO  Base:74 - driver = null
+2019-07-16 07:11:42 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:11:42 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:11:42 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:11:42 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 07:11:42 [main] INFO  Base:74 - driver = null
+2019-07-16 07:11:42 [main] INFO  Base:11 - test Ended
+2019-07-16 07:14:06 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:14:06 [main] INFO  Base:17 - test Started
+2019-07-16 07:14:09 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:14:09 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:14:09 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:14:09 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 07:14:09 [main] INFO  Base:74 - driver = null
+2019-07-16 07:14:09 [main] INFO  Base:75 - driver = null
+2019-07-16 07:14:09 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:14:09 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:14:09 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-16 07:14:09 [main] ERROR Base:33 - ---##---END_ERROR---##---
+2019-07-16 07:14:09 [main] INFO  Base:74 - driver = null
+2019-07-16 07:14:09 [main] INFO  Base:75 - driver = null
+2019-07-16 07:14:09 [main] INFO  Base:11 - test Ended
+2019-07-16 07:22:01 [main] INFO  Base:17 - test Started
+2019-07-16 07:22:07 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:22:11 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:22:11 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:22:11 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:22:11 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:22:11 [main] INFO  Base:74 - driver = null
+2019-07-16 07:22:11 [main] INFO  Base:75 - driver = null
+2019-07-16 07:22:11 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:22:11 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:22:11 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:22:11 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:22:11 [main] INFO  Base:74 - driver = null
+2019-07-16 07:22:11 [main] INFO  Base:75 - driver = null
+2019-07-16 07:22:11 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:22:14 [main] INFO  Base:11 - test Ended
+2019-07-16 07:24:09 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-16 07:24:14 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:24:18 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:24:18 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:24:18 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:24:18 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:24:18 [main] INFO  Base:74 - driver = null
+2019-07-16 07:24:18 [main] INFO  Base:75 - driver = null
+2019-07-16 07:24:18 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:24:18 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:24:18 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:24:18 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:24:18 [main] INFO  Base:74 - driver = null
+2019-07-16 07:24:18 [main] INFO  Base:75 - driver = null
+2019-07-16 07:24:18 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:24:22 [main] INFO  Base:11 - test Ended
+2019-07-16 07:25:18 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-16 07:25:22 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:25:25 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:25:25 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:25:25 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:25:25 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:25:25 [main] INFO  Base:74 - driver = null
+2019-07-16 07:25:25 [main] INFO  Base:75 - driver = null
+2019-07-16 07:25:25 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:25:25 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:25:25 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:25:25 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:25:25 [main] INFO  Base:74 - driver = null
+2019-07-16 07:25:25 [main] INFO  Base:75 - driver = null
+2019-07-16 07:25:25 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:25:28 [main] INFO  Base:11 - test Ended
+2019-07-16 07:27:38 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-16 07:27:42 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:27:45 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:27:45 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:27:45 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:27:45 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:27:45 [main] INFO  Base:74 - driver = null
+2019-07-16 07:27:45 [main] INFO  Base:75 - driver = null
+2019-07-16 07:27:45 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:27:45 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:27:45 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:27:45 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:27:45 [main] INFO  Base:74 - driver = null
+2019-07-16 07:27:45 [main] INFO  Base:75 - driver = null
+2019-07-16 07:27:45 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:27:48 [main] INFO  Base:11 - test Ended
+2019-07-16 07:29:49 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-16 07:29:51 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (d600ca22c7661b875a992da9fc148bbd)
+2019-07-16 07:29:51 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (d600ca22c7661b875a992da9fc148bbd)
+2019-07-16 07:29:54 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:29:57 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:29:57 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:29:57 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:29:57 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:29:57 [main] INFO  Base:76 - driver = null
+2019-07-16 07:29:57 [main] INFO  Base:77 - driver = null
+2019-07-16 07:29:57 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:29:57 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:29:57 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:29:57 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:29:57 [main] INFO  Base:76 - driver = null
+2019-07-16 07:29:57 [main] INFO  Base:77 - driver = null
+2019-07-16 07:29:57 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:30:00 [main] INFO  Base:11 - test Ended
+2019-07-16 07:38:01 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-16 07:38:06 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (8187fab787f785f781b7e587b8ad57ed)
+2019-07-16 07:38:06 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (8187fab787f785f781b7e587b8ad57ed)
+2019-07-16 07:38:07 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-16 07:38:10 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:38:10 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:38:10 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:38:10 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:38:10 [main] INFO  Base:76 - driver = null
+2019-07-16 07:38:10 [main] INFO  Base:77 - driver = null
+2019-07-16 07:38:10 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-16 07:38:10 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-16 07:38:10 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-16 07:38:10 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-16 07:38:10 [main] INFO  Base:76 - driver = null
+2019-07-16 07:38:10 [main] INFO  Base:77 - driver = null
+2019-07-16 07:38:10 [main] INFO  Base:70 - Before closing !
+2019-07-16 07:38:13 [main] INFO  Base:11 - test Ended
+2019-07-17 06:23:40 [main] INFO  Base:37 - Driver21 = null
+2019-07-17 06:23:45 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (99fba4d6c5d93d0c90d79a44db58f703)
+2019-07-17 06:23:45 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (99fba4d6c5d93d0c90d79a44db58f703)
+2019-07-17 06:23:49 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-17 06:23:49 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (99fba4d6c5d93d0c90d79a44db58f703)
+2019-07-17 06:23:52 [main] INFO  Base:71 - Before closing !
+2019-07-17 06:36:08 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-17 06:36:08 [main] INFO  Base:37 - Driver21 = null
+2019-07-17 06:36:13 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (b57f0d13a77abe780ada540f7f228b64)
+2019-07-17 06:36:13 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (b57f0d13a77abe780ada540f7f228b64)
+2019-07-17 06:36:14 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-17 06:36:15 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (b57f0d13a77abe780ada540f7f228b64)
+2019-07-17 06:36:23 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 06:36:23 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 06:36:23 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-17 06:36:23 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 06:36:23 [main] INFO  Base:76 - driver = null
+2019-07-17 06:36:23 [main] INFO  Base:77 - driver = null
+2019-07-17 06:36:23 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 06:36:23 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 06:36:23 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-17 06:36:23 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 06:36:23 [main] INFO  Base:76 - driver = null
+2019-07-17 06:36:23 [main] INFO  Base:77 - driver = null
+2019-07-17 06:36:23 [main] INFO  Base:71 - Before closing !
+2019-07-17 06:36:26 [main] INFO  Base:11 - test Ended
+2019-07-17 07:06:42 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-17 07:06:43 [main] INFO  Base:37 - Driver21 = null
+2019-07-17 07:06:49 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (f5e4e11d5ce646ec6b776cfeaa45ac74)
+2019-07-17 07:06:49 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (f5e4e11d5ce646ec6b776cfeaa45ac74)
+2019-07-17 07:06:51 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-17 07:06:51 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (f5e4e11d5ce646ec6b776cfeaa45ac74)
+2019-07-17 07:06:55 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (f5e4e11d5ce646ec6b776cfeaa45ac74)
+2019-07-17 07:06:55 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 07:06:55 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 07:06:55 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-17 07:06:55 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:06:55 [main] INFO  Base:76 - driver = null
+2019-07-17 07:06:55 [main] INFO  Base:77 - driver = null
+2019-07-17 07:06:55 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 07:06:55 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 07:06:55 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@368f2016] output={null}]
+2019-07-17 07:06:55 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:06:55 [main] INFO  Base:76 - driver = null
+2019-07-17 07:06:55 [main] INFO  Base:77 - driver = null
+2019-07-17 07:06:55 [main] INFO  Base:73 - Before closing !
+2019-07-17 07:06:58 [main] INFO  Base:11 - test Ended
+2019-07-17 07:12:09 [main] INFO  Base:17 - test Started DRIVER = null
+2019-07-17 07:12:09 [main] INFO  Base:37 - Driver21 = null
+2019-07-17 07:12:11 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (9148022484b569f8b61b800b9c9d61f0)
+2019-07-17 07:12:11 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (9148022484b569f8b61b800b9c9d61f0)
+2019-07-17 07:12:14 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-17 07:12:14 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (9148022484b569f8b61b800b9c9d61f0)
+2019-07-17 07:12:17 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (9148022484b569f8b61b800b9c9d61f0)
+2019-07-17 07:12:17 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 07:12:17 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 07:12:17 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-17 07:12:17 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:12:17 [main] INFO  Base:76 - driver = null
+2019-07-17 07:12:17 [main] INFO  Base:77 - driver = null
+2019-07-17 07:12:17 [main] INFO  Base:30 - IN TEST FAILURE
+2019-07-17 07:12:18 [main] ERROR Base:31 - ---##---ERROR---##---
+2019-07-17 07:12:18 [main] ERROR Base:32 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-17 07:12:18 [main] ERROR Base:33 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:12:18 [main] INFO  Base:76 - driver = null
+2019-07-17 07:12:18 [main] INFO  Base:77 - driver = null
+2019-07-17 07:12:18 [main] INFO  Base:73 - Before closing !
+2019-07-17 07:12:21 [main] INFO  Base:11 - test Ended
+2019-07-17 07:18:48 [main] INFO  Base:22 - test Started DRIVER = null
+2019-07-17 07:18:48 [main] INFO  Base:37 - Driver21 = null
+2019-07-17 07:18:52 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (e91028235b3239229236406d26f7e714)
+2019-07-17 07:18:52 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (e91028235b3239229236406d26f7e714)
+2019-07-17 07:18:54 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-17 07:18:54 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (e91028235b3239229236406d26f7e714)
+2019-07-17 07:18:58 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (e91028235b3239229236406d26f7e714)
+2019-07-17 07:18:58 [main] INFO  Base:35 - IN TEST FAILURE
+2019-07-17 07:18:58 [main] ERROR Base:36 - ---##---ERROR---##---
+2019-07-17 07:18:58 [main] ERROR Base:37 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-17 07:18:58 [main] ERROR Base:38 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:18:58 [main] INFO  Base:76 - driver = null
+2019-07-17 07:18:58 [main] INFO  Base:77 - driver = null
+2019-07-17 07:18:58 [main] INFO  Base:35 - IN TEST FAILURE
+2019-07-17 07:18:58 [main] ERROR Base:36 - ---##---ERROR---##---
+2019-07-17 07:18:58 [main] ERROR Base:37 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-17 07:18:58 [main] ERROR Base:38 - ---##---END_ERROR---##--- DRIVER = null
+2019-07-17 07:18:58 [main] INFO  Base:76 - driver = null
+2019-07-17 07:18:58 [main] INFO  Base:77 - driver = null
+2019-07-17 07:18:58 [main] INFO  Base:73 - Before closing !
+2019-07-17 07:19:01 [main] INFO  Base:16 - test Ended
+2019-07-18 00:39:06 [main] INFO  Base:18 - test Started
+2019-07-18 00:39:06 [main] INFO  Base:37 - Driver21 = null
+2019-07-18 00:39:13 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (5a7dbf0bdc069fc9b4a5e96ee7ff4c85)
+2019-07-18 00:39:13 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (5a7dbf0bdc069fc9b4a5e96ee7ff4c85)
+2019-07-18 00:39:16 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 00:39:16 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (5a7dbf0bdc069fc9b4a5e96ee7ff4c85)
+2019-07-18 00:39:19 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (5a7dbf0bdc069fc9b4a5e96ee7ff4c85)
+2019-07-18 00:39:21 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (56478721e485596e89ffdd5e3b5bb552)
+2019-07-18 00:39:21 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (56478721e485596e89ffdd5e3b5bb552)
+2019-07-18 00:39:21 [main] INFO  Base:32 - IN TEST FAILURE
+2019-07-18 00:39:21 [main] ERROR Base:33 - ---##---ERROR---##---
+2019-07-18 00:39:21 [main] ERROR Base:34 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 00:39:21 [main] ERROR Base:35 - ---##---END_ERROR---##---
+2019-07-18 00:39:21 [main] INFO  Base:76 - driver 333 = ChromeDriver: chrome on MAC (56478721e485596e89ffdd5e3b5bb552)
+2019-07-18 00:39:23 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (b27bbfd9a69e89f0579f429227326774)
+2019-07-18 00:39:23 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (b27bbfd9a69e89f0579f429227326774)
+2019-07-18 00:39:25 [main] INFO  Base:73 - Before closing !
+2019-07-18 00:39:29 [main] INFO  Base:12 - test Ended
+2019-07-18 01:20:35 [main] INFO  Base:18 - test Started
+2019-07-18 01:20:35 [main] INFO  Base:37 - Driver21 = null
+2019-07-18 01:20:40 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (3c253c81ef8183ee4e6ef9fe1b39c82e)
+2019-07-18 01:20:40 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (3c253c81ef8183ee4e6ef9fe1b39c82e)
+2019-07-18 01:20:42 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 01:20:43 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (3c253c81ef8183ee4e6ef9fe1b39c82e)
+2019-07-18 01:20:46 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (3c253c81ef8183ee4e6ef9fe1b39c82e)
+2019-07-18 01:20:46 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:20:46 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:20:46 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:20:46 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:20:46 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:20:46 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:20:46 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:20:46 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:20:46 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:20:46 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:20:46 [main] INFO  Base:73 - Before closing !
+2019-07-18 01:20:49 [main] INFO  Base:12 - test Ended
+2019-07-18 01:23:47 [main] INFO  Base:18 - test Started
+2019-07-18 01:23:47 [main] INFO  Base:37 - Driver21 = null
+2019-07-18 01:23:50 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (88f82d8f7853b0923e5cb11a45dbb6c1)
+2019-07-18 01:23:50 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (88f82d8f7853b0923e5cb11a45dbb6c1)
+2019-07-18 01:23:52 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 01:23:52 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (88f82d8f7853b0923e5cb11a45dbb6c1)
+2019-07-18 01:23:55 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (88f82d8f7853b0923e5cb11a45dbb6c1)
+2019-07-18 01:23:55 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:23:55 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:23:55 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:23:55 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:23:55 [main] INFO  Base:38 - Driver 4444 - null
+2019-07-18 01:23:55 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:23:55 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:23:55 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:23:55 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:23:55 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:23:55 [main] INFO  Base:38 - Driver 4444 - null
+2019-07-18 01:23:55 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:23:55 [main] INFO  Base:73 - Before closing !
+2019-07-18 01:23:58 [main] INFO  Base:12 - test Ended
+2019-07-18 01:26:02 [main] INFO  Base:18 - test Started
+2019-07-18 01:26:02 [main] INFO  Base:37 - Driver21 = null
+2019-07-18 01:26:04 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (bd533b52ca5b9b7fe9160e1df254b83d)
+2019-07-18 01:26:04 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (bd533b52ca5b9b7fe9160e1df254b83d)
+2019-07-18 01:26:06 [main] INFO  Base:40 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 01:26:06 [main] INFO  Base:46 - Driver22 = ChromeDriver: chrome on MAC (bd533b52ca5b9b7fe9160e1df254b83d)
+2019-07-18 01:26:15 [main] INFO  Base:66 - Driver23 = ChromeDriver: chrome on MAC (bd533b52ca5b9b7fe9160e1df254b83d)
+2019-07-18 01:26:15 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:26:15 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:26:15 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:26:15 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:26:15 [main] INFO  Base:37 - Driver 4444-1 - org.testng.TestRunner@f478a81
+2019-07-18 01:26:15 [main] INFO  Base:39 - Driver 4444-2 - null
+2019-07-18 01:26:15 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:26:15 [main] INFO  Base:31 - IN TEST FAILURE
+2019-07-18 01:26:15 [main] ERROR Base:32 - ---##---ERROR---##---
+2019-07-18 01:26:15 [main] ERROR Base:33 - test Failed, see file screensh_testLinklog result - [TestResult name=testLink status=FAILURE method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@4d5d943d] output={null}]
+2019-07-18 01:26:15 [main] ERROR Base:34 - ---##---END_ERROR---##---
+2019-07-18 01:26:15 [main] INFO  Base:37 - Driver 4444-1 - org.testng.TestRunner@f478a81
+2019-07-18 01:26:15 [main] INFO  Base:39 - Driver 4444-2 - null
+2019-07-18 01:26:15 [main] INFO  Base:76 - driver 333 = null
+2019-07-18 01:26:15 [main] INFO  Base:73 - Before closing !
+2019-07-18 01:26:19 [main] INFO  Base:12 - test Ended
+2019-07-18 01:36:13 [main] INFO  Base:39 - Driver21 = null
+2019-07-18 01:36:18 [main] INFO  Base:49 - DRIVER 1 =ChromeDriver: chrome on MAC (5e947ddc707e19e031c7d9e1a3276fdf)
+2019-07-18 01:36:18 [main] INFO  Base:50 - DRIVER 2 =ChromeDriver: chrome on MAC (5e947ddc707e19e031c7d9e1a3276fdf)
+2019-07-18 01:36:21 [main] INFO  Base:42 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 01:36:21 [main] INFO  Base:48 - Driver22 = ChromeDriver: chrome on MAC (5e947ddc707e19e031c7d9e1a3276fdf)
+2019-07-18 01:36:24 [main] INFO  Base:68 - Driver23 = ChromeDriver: chrome on MAC (5e947ddc707e19e031c7d9e1a3276fdf)
+2019-07-18 01:36:24 [main] INFO  Base:76 - driver 333 = ChromeDriver: chrome on MAC (5e947ddc707e19e031c7d9e1a3276fdf)
+2019-07-18 01:36:25 [main] INFO  Base:82 - Before closing !
+2019-07-18 01:49:56 [main] INFO  Base:39 - driver is setup, opening https://dv2yp2jkfi48m.cloudfront.net/login
+2019-07-18 01:50:00 [main] INFO  Base:75 - driver 333 = ChromeDriver: chrome on MAC (a2f7cd363cc22d9c85c16054c0b27627)
+2019-07-18 01:50:01 [main] INFO  Base:76 - Before closing !
