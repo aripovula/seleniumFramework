@@ -60,7 +60,7 @@
 								<target>1.7</target>
 							</configuration>
 						</plugin>
-						
+
 					</plugins>
 				</pluginManagement>
 			</build>
@@ -71,7 +71,7 @@
 			<build>
 				<pluginManagement>
 					<plugins>
-					
+
 						<plugin>
 							<groupId>org.apache.maven.plugins</groupId>
 							<artifactId>maven-surefire-plugin</artifactId>
@@ -106,7 +106,7 @@
 								<target>1.7</target>
 							</configuration>
 						</plugin>
-						
+
 					</plugins>
 				</pluginManagement>
 			</build>
@@ -159,6 +159,25 @@
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
 			<version>3.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-java</artifactId>
+			<version>4.6.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-junit</artifactId>
+			<version>4.6.0</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>io.cucumber</groupId>
+			<artifactId>cucumber-testng</artifactId>
+			<version>4.6.0</version>
 		</dependency>
 
 	</dependencies>

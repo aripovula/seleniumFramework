@@ -19,7 +19,7 @@ import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 
 public class Base {
-	private WebDriver driver;
+	protected WebDriver driver;
 	public Properties prop;
 	public final Logger logBase = LogManager.getLogger(Base.class);
 	
