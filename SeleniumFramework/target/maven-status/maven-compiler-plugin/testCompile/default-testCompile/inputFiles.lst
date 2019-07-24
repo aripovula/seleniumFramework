@@ -1,4 +1,8 @@
-/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/info/aripov/SeleniumFramework/Listeners.java
+/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/PageObjectsRepo/HomePageObjects.java
+/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/stepDefinitions/StepDefinitions.java
 /Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/info/aripov/SeleniumFramework/HomePageTest.java
+/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/info/aripov/SeleniumFramework/Base.java
 /Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/info/aripov/SeleniumFramework/LoginPageTest.java
 /Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/info/aripov/SeleniumFramework/AppTest.java
+/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/PageObjectsRepo/LoginPageObjects.java
+/Users/myfamily/git/SeleniumFramework/SeleniumFramework/src/test/java/cucumberAutom/TestRunner.java

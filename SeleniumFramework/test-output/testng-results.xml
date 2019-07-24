@@ -1,66 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="10839" started-at="2019-07-18T07:55:21Z" finished-at="2019-07-18T07:55:32Z">
+  <suite name="Default suite" duration-ms="180" started-at="2019-07-23T07:41:54Z" finished-at="2019-07-23T07:41:54Z">
     <groups>
-      <group name="smoke">
-        <method signature="LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="testLink" class="info.aripov.SeleniumFramework.LoginPageTest"/>
-      </group> <!-- smoke -->
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberAutom.TestRunner@5383967b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="10839" started-at="2019-07-18T07:55:21Z" finished-at="2019-07-18T07:55:32Z">
-      <class name="info.aripov.SeleniumFramework.LoginPageTest">
-        <test-method status="PASS" signature="setupTest()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="setupTest" is-config="true" duration-ms="4559" started-at="2019-07-18T07:55:21Z" finished-at="2019-07-18T07:55:25Z">
+    <test name="Default test" duration-ms="180" started-at="2019-07-23T07:41:54Z" finished-at="2019-07-23T07:41:54Z">
+      <class name="cucumberAutom.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberAutom.TestRunner@5383967b]" name="setUpClass" is-config="true" duration-ms="108" started-at="2019-07-23T07:41:54Z" finished-at="2019-07-23T07:41:54Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setupTest -->
-        <test-method status="PASS" signature="testLogin(java.lang.String, java.lang.String)[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="testLogin" duration-ms="2980" started-at="2019-07-18T07:55:25Z" data-provider="getData" finished-at="2019-07-18T07:55:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[weblaruchun]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[passord]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberAutom.TestRunner@5383967b]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2019-07-23T07:41:54Z" finished-at="2019-07-23T07:41:54Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="captureScreenshot" is-config="true" duration-ms="2" started-at="2019-07-18T07:55:28Z" finished-at="2019-07-18T07:55:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLogin status=SUCCESS method=LoginPageTest.testLogin(java.lang.String, java.lang.String)[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- captureScreenshot -->
-        <test-method status="PASS" signature="testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="testLink" duration-ms="9" started-at="2019-07-18T07:55:28Z" depends-on-methods="info.aripov.SeleniumFramework.LoginPageTest.testLogin" finished-at="2019-07-18T07:55:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testLink -->
-        <test-method status="PASS" signature="captureScreenshot(org.testng.ITestResult)[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="captureScreenshot" is-config="true" duration-ms="1" started-at="2019-07-18T07:55:28Z" finished-at="2019-07-18T07:55:28Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=testLink status=SUCCESS method=LoginPageTest.testLink()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- captureScreenshot -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:info.aripov.SeleniumFramework.LoginPageTest@77888435]" name="teardown" is-config="true" duration-ms="3153" started-at="2019-07-18T07:55:28Z" finished-at="2019-07-18T07:55:32Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- info.aripov.SeleniumFramework.LoginPageTest -->
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- cucumberAutom.TestRunner -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -1,0 +1,8 @@
+PageObjectsRepo/HomePageObjects.class
+cucumberAutom/TestRunner.class
+info/aripov/SeleniumFramework/Base.class
+info/aripov/SeleniumFramework/HomePageTest.class
+info/aripov/SeleniumFramework/AppTest.class
+PageObjectsRepo/LoginPageObjects.class
+info/aripov/SeleniumFramework/LoginPageTest.class
+stepDefinitions/StepDefinitions.class

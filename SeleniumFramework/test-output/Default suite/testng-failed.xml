@@ -3,15 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="info.aripov.SeleniumFramework.LoginPageTest">
+      <class name="cucumberAutom.TestRunner">
         <methods>
-          <include name="captureScreenshot"/>
-          <include name="setupTest"/>
-          <include name="teardown"/>
-          <include name="testLink"/>
-          <include name="testLogin"/>
+          <include name="runScenario" invocation-numbers="0 1"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
         </methods>
-      </class> <!-- info.aripov.SeleniumFramework.LoginPageTest -->
+      </class> <!-- cucumberAutom.TestRunner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
